@@ -1,0 +1,15 @@
+---
+galaxy_info:
+  author: Michael Cleary
+  comapny: ClusterApps
+  description: >
+    Installs the Apache web server on a RedHat based Linux distribution.
+  license: BSD
+  min_ansible_version: 2.5
+  platforms:
+    - name: EL
+      versions:
+        - 7
+  categories:
+    - web
+dependencies: []
